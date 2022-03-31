@@ -1,0 +1,5 @@
+*env.list
+.Rproj.user
+data/
+*.csv
+*.xlsx
